@@ -13,7 +13,16 @@ Orientado a la resolución de problemas y con un fuerte compromiso hacia la aten
 
 Destaco por mis habilidades de comunicación, trabajo en equipo y adaptabilidad a entornos dinámicos, con un enfoque constante en la mejora de procesos y en la capacitación de usuarios para un mejor aprovechamiento de los recursos tecnológicos.
 
+## Experiencia Laboral
+
+### [Bancl Leon 1]
+**Cargo:Procesamientos de datos  
+**Periodo: 2000 - 2002]  
+**Descripción:Encargado del cierre de las transacciones  y de hacer backup de todos los procesos diarios.
+
+
 Contacto: hdotel30@gmail.com
 Telf: 829-603-1005
+
 
 
