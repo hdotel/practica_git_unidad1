@@ -20,6 +20,16 @@ Destaco por mis habilidades de comunicación, trabajo en equipo y adaptabilidad 
 **Periodo: 2000 - 2002]  
 **Descripción:Encargado del cierre de las transacciones  y de hacer backup de todos los procesos diarios.
 
+### [Loteria Nacional 2]
+**Cargo: Soporte tecnnico
+**Periodo:** [2019 -Actual]  
+**Descripción:** Mantenimiento y configuracion de los equipos tecnologicos.
+
+### [Ferreteria Americana 3]
+**Cargo:hacer cierre en el AS-400  
+**Periodo:** [1999 - 2009Fecha fin]  
+**Descripción:** Breve descripción de tus responsabilidades y logros.
+
 
 Contacto: hdotel30@gmail.com
 Telf: 829-603-1005
