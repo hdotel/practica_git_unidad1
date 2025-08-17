@@ -37,6 +37,12 @@ Destaco por mis habilidades de comunicación, trabajo en equipo y adaptabilidad 
 **Periodo:** [2005-2010]  
 **Descripción:** Lic. Informatica, Diplomado en ciencias de datos, curso de C#,otros.
 
+ ### [Cursos y Certificaciones]
+- [Sooporte de redes] - [Inforedes] ([Año])
+- [Certificación 2] - [CompTIA A+] ([Año])
+- [csharp] - [Institución] ([Año])
+
+
 Contacto: hdotel30@gmail.com
 Telf: 829-603-1005
 
