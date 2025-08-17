@@ -13,7 +13,32 @@ Orientado a la resolución de problemas y con un fuerte compromiso hacia la aten
 
 Destaco por mis habilidades de comunicación, trabajo en equipo y adaptabilidad a entornos dinámicos, con un enfoque constante en la mejora de procesos y en la capacitación de usuarios para un mejor aprovechamiento de los recursos tecnológicos.
 
+## Experiencia Laboral
+
+### [Bancl Leon 1]
+**Cargo:Procesamientos de datos  
+**Periodo: 2000 - 2002]  
+**Descripción:Encargado del cierre de las transacciones  y de hacer backup de todos los procesos diarios.
+
+### [Loteria Nacional 2]
+**Cargo: Soporte tecnnico
+**Periodo:** [2019 -Actual]  
+**Descripción:** Mantenimiento y configuracion de los equipos tecnologicos.
+
+### [Ferreteria Americana 3]
+**Cargo:hacer cierre en el AS-400  
+**Periodo:** [1999 - 2009Fecha fin]  
+**Descripción:** Breve descripción de tus responsabilidades y logros.
+
+## Formación Académica
+
+### [Universidad Autonoma de Santo Domingo]
+**Título:Licenciado en informatica 
+**Periodo:** [2005-2010]  
+**Descripción:** Lic. Informatica, Diplomado en ciencias de datos, curso de C#,otros.
+
 Contacto: hdotel30@gmail.com
 Telf: 829-603-1005
+
 
 
